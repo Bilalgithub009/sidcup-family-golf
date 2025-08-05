@@ -64,6 +64,18 @@ body {
 #nav img {
   height: 4.5vw;
 }
+
+#color{
+  color: #95c11e;
+  font-weight: bold;
+  font-size: large;
+}
+
+#color2{
+    color: black;
+  font-weight: bold;
+  font-size: large;
+}
 #nav h4 {
   text-transform: uppercase;
   font-weight: 500;
